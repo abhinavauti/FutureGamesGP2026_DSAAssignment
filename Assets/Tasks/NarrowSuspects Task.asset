@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a30fa7ff028da1448753a5f1935b2c3, type: 3}
+  m_Name: NarrowSuspects Task
+  m_EditorClassIdentifier: Assembly-CSharp::Environment.Tasks.NarrowSuspectsTask
+  suspects: {fileID: 11400000, guid: 0d661cd18d63d5144a2381b9fb2316da, type: 2}
+  exitStartTime: 2234-08-09T22:00:00
+  exitEndTime: 2234-08-09T23:00:00
